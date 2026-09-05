@@ -1,0 +1,6 @@
+{
+  "name": "El-Bendary Pharmacies",
+  "description": "Egypt's premier pharmacy chain delivering authentic medications, medical devices, cosmetics, and 24/7 delivery across Cairo, North Coast, Tanta, and Sharm El-Sheikh since 1980.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
